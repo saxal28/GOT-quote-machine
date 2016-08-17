@@ -1,0 +1,55 @@
+.container {
+  height: auto;
+  margin-top: 200px;
+}
+
+body {
+  background: url(http://www.imgbase.info/images/safe-wallpapers/tv_movies/game_of_thrones/27776_game_of_thrones.jpg);
+  background-size: cover;
+  font-family: Bad Script;
+}
+
+.quote-box {
+  width: 80%;
+  height: auto;
+  margin: auto;
+  padding: 10px;
+  border-radius: 50px;
+}
+
+.blockquote {
+  color: white;
+  color: white;
+  width: 90%;
+  height: auto;
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+  padding: 10px;
+  font-size: 33px;
+  font-weight: 600;
+}
+
+.author {
+  width: 90%;
+  height: auto;
+  padding: 10px;
+  text-align: right;
+  margin: 0 auto;
+  font-size: 25px;
+  color: white;
+  font-weight: 500;
+}
+
+.button-box {
+  padding: 10px;
+  width: 90%;
+  text-align: right;
+  margin: 0 auto;
+}
+
+.btn {
+  background: white;
+  color: red;
+  font-family: Uncial Antiqua;
+}
